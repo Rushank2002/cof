@@ -18,7 +18,7 @@ st.write("Industrial and Precious Metal: Silver has both industrial and precious
 st.write("Supply and Demand: Like gold, silver prices respond to supply and demand dynamics.")
 st.write("Speculation: Speculative trading plays a role in silver’s volatility.")
 st.write("Investment: Silver is both an industrial commodity and an investment asset.")
-
+st.write("***")
 
 
 
@@ -29,6 +29,7 @@ st.write("OPEC Decisions: The Organization of the Petroleum Exporting Countries 
 st.write("Speculation: Futures markets and speculative trading affect crude oil prices.")
 st.write("Uses: It’s refined into gasoline, diesel, and other petroleum products.")
 st.write("Price Drivers: Supply and demand, geopolitical events, and OPEC decisions.")
+st.write("***")
 
 st.subheader("Natural Gas (NG=F):")
 st.write("Description: Natural gas is a clean-burning fossil fuel.")
@@ -36,10 +37,11 @@ st.write("Seasonal Demand: Natural gas demand varies with seasons (winter for he
 st.write("Storage Levels: Inventories impact prices")
 st.write("Weather: Extreme weather conditions affect consumption.")
 st.write("Uses: It’s used for heating, electricity generation, and industrial processes.")
-
+st.write("***")
 
 st.subheader("Brent Crude Oil (BZ=F):")
 st.write("Geographical Origin: It’s extracted from the North Sea.")
 st.write("Benchmark: Brent crude serves as a global benchmark for oil prices.")
 st.write("Geopolitical Factors: Tensions in oil-producing regions impact Brent prices.")
 st.write("Supply and Demand: Similar to WTI crude, Brent’s value depends on supply and demand dynamics.")
+st.write("***")
